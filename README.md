@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-pasion-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Luz de pasión, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-pasion-vol-2/) |
+| **Get License** | [Commercial Licensing for Luz de pasión, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-pasion-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la luna es testigo de lo que te quiero hacer,
+> Tú tienes la vibra que me tiene loco, mi preciosa y dulce mujer.
+> Vente conmigo, dejemos las dudas, que el tiempo se va a acabar,
+> Ese cuerpazo y tu forma de darme, me invitan a pecar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
